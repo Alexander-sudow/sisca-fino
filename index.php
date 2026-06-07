@@ -17,8 +17,8 @@ $weddingDate = 'June 26, 2026 09:00:00';
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Undangan Pernikahan Rian & Sisca</title>
-  <meta name="description" content="Undangan Pernikahan Rian & Sisca - Jumat, 26 Juni 2026">
+  <title>Undangan Pernikahan Vino & Sisca</title>
+  <meta name="description" content="Undangan Pernikahan Vino & Sisca - Jumat, 26 Juni 2026">
   
   <!-- CSS Stylesheet -->
   <link rel="stylesheet" href="assets/css/style.css">
@@ -29,7 +29,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
   <div id="welcome-screen">
     <div class="welcome-header">
       <p>The Wedding of</p>
-      <h1 class="welcome-couple">Rian & Sisca</h1>
+      <h1 class="welcome-couple">Vino & Sisca</h1>
     </div>
 
     <div class="welcome-center">
@@ -80,7 +80,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
     <!-- SECTION 1: HERO / BANNER -->
     <section id="hero">
       <div class="hero-bg-container">
-        <img class="hero-image" src="assets/images/img_8548.jpg" alt="Rian & Sisca Wedding Cover">
+        <img class="hero-image" src="assets/images/img_8548.jpg" alt="Vino & Sisca Wedding Cover">
         <!-- SVG wave decoration for a elegant look -->
         <svg class="hero-wave" viewBox="0 0 1440 320" preserveAspectRatio="none">
           <path d="M0,160L80,176C160,192,320,224,480,218.7C640,213,800,171,960,165.3C1120,160,1280,192,1360,208L1440,224L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path>
@@ -89,9 +89,9 @@ $weddingDate = 'June 26, 2026 09:00:00';
       
       <div class="hero-content">
         <span class="hero-subtitle">Walimatul 'Ursy</span>
-        <h2 class="hero-title">Rian & Sisca</h2>
+        <h2 class="hero-title">Vino & Sisca</h2>
         <p class="hero-invite-text">
-          Dengan penuh rasa hormat dan syukur, kami mengundang Anda untuk menghadiri resepsi pernikahan kami.
+          Dengan penuh rasa hormat dan syukur, kami mengundang Anda untuk menghadiri tasyakur pernikahan kami.
         </p>
         
         <span class="hero-date">26 . 06 . 2026</span>
@@ -137,7 +137,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
             <img class="couple-photo" src="assets/images/biru_cowo.jpg" alt="Groom Photo">
           </div>
           <h3 class="couple-name">Alvino Rian Siregar</h3>
-          <p class="couple-fullname">Rian</p>
+          <p class="couple-fullname">Vino</p>
           <p class="couple-parents">
             Anak putra pertama dari pasangan <br>
             <strong>Bapak Sidik Purnomo</strong> <br>
@@ -255,7 +255,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
         </a>
         
         <!-- Google Calendar "Add Event" -->
-        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pernikahan+Rian+dan+Sisca&dates=20260626T020000Z/20260626T080000Z&details=Selamat+datang+di+pernikahan+kami&location=Zukaria+Resto+Pleret,+Bantul" target="_blank" class="btn-action btn-secondary">
+        <a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Pernikahan+Vino+dan+Sisca&dates=20260626T020000Z/20260626T080000Z&details=Selamat+datang+di+pernikahan+kami&location=Zukaria+Resto+Pleret,+Bantul" target="_blank" class="btn-action btn-secondary">
           <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>
           Simpan Tanggal ke Kalender
         </a>
@@ -267,46 +267,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
       </div>
     </section>
 
-    <!-- SECTION 4: DRESS CODE & NOTE -->
-    <section id="attire" class="reveal">
-      <div class="section-title">Dress Code</div>
-      <div class="section-subtitle">Ketentuan Busana</div>
-      <div class="section-divider">
-        <svg viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
-      </div>
 
-      <p class="attire-desc">
-        Untuk menyelaraskan keindahan acara, kami mengundang para tamu sekalian untuk mengenakan busana yang senada dengan nuansa warna berikut:
-      </p>
-
-      <div class="dress-code-colors">
-        <div class="color-dot-wrapper">
-          <div class="color-dot" style="background-color: #e5ccb4;"></div>
-          <span class="color-dot-label">Champagne</span>
-        </div>
-        <div class="color-dot-wrapper">
-          <div class="color-dot" style="background-color: #dfd2c4;"></div>
-          <span class="color-dot-label">Nude Cream</span>
-        </div>
-        <div class="color-dot-wrapper">
-          <div class="color-dot" style="background-color: #8fa089;"></div>
-          <span class="color-dot-label">Sage Green</span>
-        </div>
-        <div class="color-dot-wrapper">
-          <div class="color-dot" style="background-color: #b7a99a;"></div>
-          <span class="color-dot-label">Taupe</span>
-        </div>
-      </div>
-
-      <div class="notes-card">
-        <h4>Catatan Penting:</h4>
-        <ul>
-          <li>Demi menjaga kesehatan bersama, tamu undangan dihimbau untuk tetap menjaga kebersihan selama acara berlangsung.</li>
-          <li>Acara ini diselenggarakan tanpa mengurangi rasa hormat kami dengan mematuhi kapasitas ruangan yang memadai.</li>
-          <li>Tidak wajib membawa kado fisik; kami menyediakan fitur amplop digital untuk kenyamanan Anda di bawah ini.</li>
-        </ul>
-      </div>
-    </section>
 
     <!-- EXTRA VALUE ADD: DIGITAL GIFT / WEDDING ENVELOPE -->
     <section id="gift" class="reveal">
@@ -322,10 +283,10 @@ $weddingDate = 'June 26, 2026 09:00:00';
 
       <!-- Bank Card 1 -->
       <div class="gift-card">
-        <div class="bank-logo bank-bca">BCA</div>
-        <div class="bank-number" id="bca-num">1234567890</div>
+        <div class="bank-logo bank-bni">BNI</div>
+        <div class="bank-number" id="bni-num">2060547414</div>
         <div class="bank-owner">a.n Alvino Rian Siregar</div>
-        <button class="btn-copy" data-copy="1234567890">
+        <button class="btn-copy" data-copy="2060547414">
           <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
           Salin Rekening
         </button>
@@ -333,10 +294,10 @@ $weddingDate = 'June 26, 2026 09:00:00';
 
       <!-- Bank Card 2 -->
       <div class="gift-card">
-        <div class="bank-logo bank-mandiri">Bank Mandiri</div>
-        <div class="bank-number" id="mandiri-num">9876543210123</div>
+        <div class="bank-logo bank-bca">BCA</div>
+        <div class="bank-number" id="bca-num">0374799254</div>
         <div class="bank-owner">a.n Princessa Sisca Maharani</div>
-        <button class="btn-copy" data-copy="9876543210123">
+        <button class="btn-copy" data-copy="0374799254">
           <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
           Salin Rekening
         </button>
@@ -346,9 +307,9 @@ $weddingDate = 'June 26, 2026 09:00:00';
       <div class="gift-card">
         <div style="font-weight: 600; margin-bottom: 8px; color: var(--color-primary-dark);">Kirim Kado Fisik</div>
         <p style="font-size: 0.85rem; color: var(--color-text-main); margin-bottom: 12px;">
-          Jl. Kemang Raya No. 45, Kebayoran Baru, Jakarta Selatan, 12170 (U.P. Sisca)
+          jl. Bawuran II, Bawuran, Kec. Pleret, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55791 (U.P. Sisca)
         </p>
-        <button class="btn-copy" data-copy="Jl. Kemang Raya No. 45, Kebayoran Baru, Jakarta Selatan, 12170 (U.P. Sisca)">
+        <button class="btn-copy" data-copy="jl. Bawuran II, Bawuran, Kec. Pleret, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55791 (U.P. Sisca)">
           <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
           Salin Alamat
         </button>
@@ -381,12 +342,12 @@ $weddingDate = 'June 26, 2026 09:00:00';
         </div>
         <!-- Gallery Item 4 -->
         <div class="gallery-item">
-          <img class="gallery-image" src="assets/images/img_8559.jpg" alt="Prewedding 4">
+          <img class="gallery-image" src="assets/images/img_8577.jpg" alt="Prewedding 4">
           <div class="gallery-overlay"></div>
         </div>
         <!-- Gallery Item 5 -->
         <div class="gallery-item">
-          <img class="gallery-image" src="assets/images/img_8564.jpg" alt="Prewedding 5">
+          <img class="gallery-image" src="assets/images/img_8579.jpg" alt="Prewedding 5">
           <div class="gallery-overlay"></div>
         </div>
         <!-- Gallery Item 6 -->
@@ -487,9 +448,9 @@ $weddingDate = 'June 26, 2026 09:00:00';
 
     <!-- ================= FOOTER ================= -->
     <footer>
-      <div class="footer-couple">Rian & Sisca</div>
+      <div class="footer-couple">Vino & Sisca</div>
       <p style="font-style: italic; margin-bottom: 10px;">Sampai jumpa di hari bahagia kami</p>
-      <p>&copy; 2026 Rian & Sisca. All Rights Reserved.</p>
+      <p>&copy; 2026 Vino & Sisca. All Rights Reserved.</p>
       <div class="watermark">
         Dibuat dengan cinta untuk menyatukan hati
       </div>
