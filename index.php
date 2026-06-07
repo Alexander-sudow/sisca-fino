@@ -21,7 +21,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
   <meta name="description" content="Undangan Pernikahan Vino & Sisca - Jumat, 26 Juni 2026">
   
   <!-- CSS Stylesheet -->
-  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="assets/css/style.css?v=1.1">
 </head>
 <body class="scroll-locked">
 
@@ -174,8 +174,8 @@ $weddingDate = 'June 26, 2026 09:00:00';
       <div class="timeline">
         <div class="timeline-item">
           <div class="timeline-dot"></div>
-          <div class="timeline-image-wrapper">
-            <img class="timeline-image" src="assets/images/ls1.jpeg" alt="Awal Bertemu">
+          <div class="timeline-image-wrapper" style="width: 100%; height: 200px; overflow: hidden; border-radius: 12px; margin-bottom: 12px; border: 1px solid rgba(184, 146, 106, 0.15);">
+            <img class="timeline-image" src="assets/images/ls1.jpeg" alt="Awal Bertemu" style="width: 100%; height: 100%; object-fit: cover;">
           </div>
           <div class="timeline-content">
             <h3>Awal Bertemu</h3>
@@ -185,8 +185,8 @@ $weddingDate = 'June 26, 2026 09:00:00';
 
         <div class="timeline-item">
           <div class="timeline-dot"></div>
-          <div class="timeline-image-wrapper">
-            <img class="timeline-image" src="assets/images/ls2.jpeg" alt="Lamaran">
+          <div class="timeline-image-wrapper" style="width: 100%; height: 200px; overflow: hidden; border-radius: 12px; margin-bottom: 12px; border: 1px solid rgba(184, 146, 106, 0.15);">
+            <img class="timeline-image" src="assets/images/ls2.jpeg" alt="Lamaran" style="width: 100%; height: 100%; object-fit: cover;">
           </div>
           <div class="timeline-content">
             <h3>Lamaran</h3>
@@ -196,8 +196,8 @@ $weddingDate = 'June 26, 2026 09:00:00';
 
         <div class="timeline-item">
           <div class="timeline-dot"></div>
-          <div class="timeline-image-wrapper">
-            <img class="timeline-image" src="assets/images/img_8620.jpg" alt="Menikah">
+          <div class="timeline-image-wrapper" style="width: 100%; height: 200px; overflow: hidden; border-radius: 12px; margin-bottom: 12px; border: 1px solid rgba(184, 146, 106, 0.15);">
+            <img class="timeline-image" src="assets/images/img_8620.jpg" alt="Menikah" style="width: 100%; height: 100%; object-fit: cover;">
           </div>
           <div class="timeline-content">
             <h3>Menikah</h3>
