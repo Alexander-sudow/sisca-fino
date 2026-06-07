@@ -175,7 +175,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
         <div class="timeline-item">
           <div class="timeline-dot"></div>
           <div class="timeline-image-wrapper" style="width: 100%; height: 200px; overflow: hidden; border-radius: 12px; margin-bottom: 12px; border: 1px solid rgba(184, 146, 106, 0.15);">
-            <img class="timeline-image" src="assets/images/ls1.jpeg" alt="Awal Bertemu" style="width: 100%; height: 100%; object-fit: cover;">
+            <img class="timeline-image" src="assets/images/ls2.jpeg" alt="Awal Bertemu" style="width: 100%; height: 100%; object-fit: cover;">
           </div>
           <div class="timeline-content">
             <h3>Awal Bertemu</h3>
@@ -186,7 +186,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
         <div class="timeline-item">
           <div class="timeline-dot"></div>
           <div class="timeline-image-wrapper" style="width: 100%; height: 200px; overflow: hidden; border-radius: 12px; margin-bottom: 12px; border: 1px solid rgba(184, 146, 106, 0.15);">
-            <img class="timeline-image" src="assets/images/ls2.jpeg" alt="Lamaran" style="width: 100%; height: 100%; object-fit: cover;">
+            <img class="timeline-image" src="assets/images/ls1.jpeg" alt="Lamaran" style="width: 100%; height: 100%; object-fit: cover;">
           </div>
           <div class="timeline-content">
             <h3>Lamaran</h3>
