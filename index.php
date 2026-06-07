@@ -381,7 +381,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
         </div>
         <!-- Gallery Item 3 -->
         <div class="gallery-item">
-          <img class="gallery-image" src="assets/images/halo1.jpg" alt="Prewedding 3">
+          <img class="gallery-image" src="assets/images/img_8600.jpg" alt="Prewedding 3">
           <div class="gallery-overlay"></div>
         </div>
         <!-- Gallery Item 4 -->
