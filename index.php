@@ -19,6 +19,19 @@ $weddingDate = 'June 26, 2026 09:00:00';
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Undangan Pernikahan Vino & Sisca</title>
   <meta name="description" content="Undangan Pernikahan Vino & Sisca - Jumat, 26 Juni 2026">
+  <!-- Open Graph / WhatsApp Preview -->
+<meta property="og:title" content="The Wedding of Vino & Sisca">
+<meta property="og:description" content="Tanpa Mengurangi Rasa Hormat, Kami Mengundang Bapak/Ibu/Saudara/i Untuk Hadir di Acara Pernikahan Kami.">
+<meta property="og:image" content="https://sisca-vino.up.railway.app/assets/images/img_8548.jpg">
+<meta property="og:url" content="https://sisca-vino.up.railway.app">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="id_ID">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="The Wedding of Vino & Sisca">
+<meta name="twitter:description" content="Undangan Pernikahan Vino & Sisca">
+<meta name="twitter:image" content="https://sisca-vino.up.railway.app/assets/images/img_8548.jpg">
   
   <!-- CSS Stylesheet -->
   <link rel="stylesheet" href="assets/css/style.css?v=1.1">
