@@ -63,7 +63,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
   <!-- ================= BACKGROUND AUDIO ================= -->
   <!-- Beautiful romantic piano royalty free track -->
   <audio id="bg-audio" loop>
-    <source src="https://assets.mixkit.co/music/preview/mixkit-delicate-romantic-piano-1311.mp3" type="audio/mpeg">
+    <source src="assets/audio/wedding-bgm.mp3" type="audio/mpeg">
     Browser Anda tidak mendukung elemen audio.
   </audio>
 
@@ -91,7 +91,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
         <span class="hero-subtitle">Walimatul 'Ursy</span>
         <h2 class="hero-title">Vino & Sisca</h2>
         <p class="hero-invite-text">
-          Dengan penuh rasa hormat dan syukur, kami mengundang Anda untuk menghadiri tasyakur pernikahan kami.
+          Dengan penuh rasa hormat dan syukur, kami mengundang Anda untuk menghadiri Tasyakuran pernikahan kami.
         </p>
         
         <span class="hero-date">26 . 06 . 2026</span>
@@ -159,6 +159,50 @@ $weddingDate = 'June 26, 2026 09:00:00';
             <strong>Bapak Suyanto</strong> <br>
             & <strong>Ibu Eny Rahayu</strong>
           </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- SECTION 2.5: CERITA CINTA (LOVE STORY) -->
+    <section id="story" class="reveal">
+      <div class="section-title">Cerita Cinta</div>
+      <div class="section-subtitle">Our Love Story</div>
+      <div class="section-divider">
+        <svg viewBox="0 0 24 24"><path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/></svg>
+      </div>
+
+      <div class="timeline">
+        <div class="timeline-item">
+          <div class="timeline-dot"></div>
+          <div class="timeline-image-wrapper">
+            <img class="timeline-image" src="assets/images/ls1.jpeg" alt="Awal Bertemu">
+          </div>
+          <div class="timeline-content">
+            <h3>Awal Bertemu</h3>
+            <p>Pertemuan pertama kami bermula dari sebuah ketidaksengajaan di Yogyakarta. Dari sekadar sapaan biasa, tumbuh ketertarikan yang mendalam di antara kami berdua.</p>
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-dot"></div>
+          <div class="timeline-image-wrapper">
+            <img class="timeline-image" src="assets/images/ls2.jpeg" alt="Lamaran">
+          </div>
+          <div class="timeline-content">
+            <h3>Lamaran</h3>
+            <p>Di hadapan keluarga besar, kami mengikat janji suci pertama kami dalam ikatan lamaran yang hangat dan penuh khidmat, bersiap menuju gerbang pernikahan.</p>
+          </div>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-dot"></div>
+          <div class="timeline-image-wrapper">
+            <img class="timeline-image" src="assets/images/img_8620.jpg" alt="Menikah">
+          </div>
+          <div class="timeline-content">
+            <h3>Menikah</h3>
+            <p>Langkah awal kehidupan baru kami akan dimulai di hari pernikahan ini. Hari di mana dua hati disatukan dalam janji suci selamanya.</p>
+          </div>
         </div>
       </div>
     </section>
@@ -337,7 +381,7 @@ $weddingDate = 'June 26, 2026 09:00:00';
         </div>
         <!-- Gallery Item 3 -->
         <div class="gallery-item">
-          <img class="gallery-image" src="assets/images/img_8557.jpg" alt="Prewedding 3">
+          <img class="gallery-image" src="assets/images/halo1.jpg" alt="Prewedding 3">
           <div class="gallery-overlay"></div>
         </div>
         <!-- Gallery Item 4 -->
