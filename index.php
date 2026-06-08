@@ -169,8 +169,8 @@ $weddingDate = 'June 26, 2026 09:00:00';
           <p class="couple-fullname">Sisca</p>
           <p class="couple-parents">
             Anak putri pertama dari pasangan <br>
-            <strong>Bapak Suyanto</strong> <br>
-            & <strong>Ibu Eny Rahayu</strong>
+            <strong>Bapak (Suyanto)</strong> <br>
+            & <strong>Ibu (Eny Rahayu)</strong>
           </p>
         </div>
       </div>
